@@ -46,7 +46,7 @@ function NavBar() {
               <a href="index.html">Contacto</a>{" "}
             </li>
             <li>
-              <a href="index.html"><CartWidget/> Carrito</a>{" "}
+              <a href="index.html"><CartWidget/></a>{" "}
             </li>
           </ul>
         </div>
